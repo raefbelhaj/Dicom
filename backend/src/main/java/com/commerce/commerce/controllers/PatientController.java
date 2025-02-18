@@ -1,3 +1,4 @@
+/*
 package com.commerce.commerce.controllers;
 
 import com.commerce.commerce.Service.PatientService;
@@ -39,3 +40,4 @@ public class PatientController {
         patientService.deletePatient(id);
     }
 }
+*/

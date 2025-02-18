@@ -1,3 +1,5 @@
+/*
+
 package com.commerce.commerce.dtos;
 
 public class PatientDTO {
@@ -60,3 +62,4 @@ public class PatientDTO {
 
     // Constructeurs, Getters et Setters
 }
+*/

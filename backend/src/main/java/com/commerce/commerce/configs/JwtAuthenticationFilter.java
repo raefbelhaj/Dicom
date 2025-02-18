@@ -1,6 +1,6 @@
 package com.commerce.commerce.configs;
 
-import com.commerce.commerce.Service.JwtService;
+import com.commerce.commerce.Service.Authentification.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

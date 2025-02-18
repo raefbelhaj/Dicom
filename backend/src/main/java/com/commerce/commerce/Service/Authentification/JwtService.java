@@ -1,4 +1,4 @@
-package com.commerce.commerce.Service;
+package com.commerce.commerce.Service.Authentification;
 
 import com.commerce.commerce.Models.User;
 import io.jsonwebtoken.Claims;

@@ -1,3 +1,4 @@
+/*
 package com.commerce.commerce.Service;
 
 import com.commerce.commerce.Models.Patient;
@@ -78,3 +79,4 @@ public class PatientService {
         patientRepository.deleteById(id);
     }
 }
+*/
